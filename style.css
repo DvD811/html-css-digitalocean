@@ -1,0 +1,64 @@
+body {
+    font-family: 'Lato', sans-serif;
+}
+
+.welcome {
+    background-color: #0248ff;
+    background-image: url(img/asset\ 17.jpeg);
+    background-position: center bottom;
+    background-repeat: no-repeat no-repeat;
+    display: block;
+    min-height: 800px;
+    padding-top: 90px;
+    color: #fff;
+}
+
+.welcome h1 {
+    font-size: 64px;
+    letter-spacing: -1.55px;
+    line-height: 1.18;
+}
+
+.welcome p {
+    font-size: 24px;
+}
+
+.menu_superiore {
+    height: 40px;
+    background-color: #fff
+}
+
+.menu_inferiore {
+    height: 65px;
+    background-color: #fff
+}
+
+.signup {
+    background-color: rgb(255, 255, 255);
+    box-shadow: rgba(3, 27, 78, 0.1) 0px 10px 20px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgba(3, 27, 78, 0.1);
+    border-image: initial;
+    border-radius: 5px;
+    margin: 0px;
+    padding: 32px;
+    color: #000
+}
+
+.signup a {
+    background-color: #fff;
+    color: grey;
+}
+
+.signup h2 {
+    font-size: 30px;
+    font-weight: 400;
+}
+
+.prov {
+    padding-left: 16px;
+    padding-top: 16px;
+}
+
+cica un
